@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a fork of the project practice project for the second year of the Electrotechnical University.
+This repository contains a fork of the project practice project for the second year of Electrotechnical University.
 
 My task was to develop an XML parser to read the XML file with the scheme and load in into the program for further processing, and then save the result back to the XML file.
 Specifically, most of my work was done in the `Parser.cpp` file.
