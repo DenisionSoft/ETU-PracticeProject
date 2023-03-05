@@ -1,4 +1,21 @@
-# IntegralElementDisposition
+# Fork of IntegralElementDisposition ETU project
+
+## Overview
+
+This repository contains a fork of the project practice project for the second year of the Electrotechnical University.
+
+My task was to develop an XML parser to read the XML file with the scheme and load in into the program for further processing, and then save the result back to the XML file.
+Specifically, most of my work was done in the `Parser.cpp` file.
+
+This project was written in C++ using Qt framework.
+
+It was developed in collaboration with [Dmitry Trukhman](https://github.com/Qusild) and [Gleb Lyakh](https://github.com/WhoLeb).
+The original licence referring to Gleb as 'WhoLeb' is included in the LICENSE file.
+
+## Description
+
+The original task as descibed in a README file of the parent repository (in Russian):
+
 Учебная практика, второй курс.
 
 Требуется разработать визуальный редактор, позволяющий оптимально (с точки зрения суммарной длины проводов) размещать интегральные микросхемы на двумерной однослойной плате. 
